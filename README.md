@@ -1,4 +1,3 @@
-# git-essentials
+# get essentials / git for everybody
 
-
-this is SOME VERY new stuff
+hey
