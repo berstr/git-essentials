@@ -1,2 +1,4 @@
 # git-essentials
-this are some changes from bernd
+
+
+this is SOME VERY new stuff
